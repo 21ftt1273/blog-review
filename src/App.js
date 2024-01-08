@@ -20,7 +20,9 @@ function App() {
               Learning
             </span>
             <h1 className=" text-[13px] font-medium ">Published 21 Dec 2023</h1>
-            <h1 className=" font-bold text-xl">HTML & CSS Foundations</h1>
+            <h1 className=" font-bold text-xl hover:text-custom-yellow">
+              HTML & CSS Foundations
+            </h1>
             <h1 className=" text-gray-400 text-[16px]">
               These languages are the backbone of every website, defining
               structure, content, and presentation.
